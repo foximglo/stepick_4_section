@@ -1,1 +1,1 @@
-# Stepik раздел 4: изучение паттерна Paje Object
+# Stepik раздел 4: изучение паттерна Page Object
